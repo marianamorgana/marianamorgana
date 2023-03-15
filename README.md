@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<a href="https://linktr.ee/jeisonthiago"> <img src="https://solucoes.prodesp.sp.gov.br/wp-content/uploads/2022/08/modernizacao-sistemas-legados01-1024x972.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mariana Morgana"></a>
+<a href="https://www.linkedin.com/in/marianamorgana"> <img src="https://solucoes.prodesp.sp.gov.br/wp-content/uploads/2022/08/modernizacao-sistemas-legados01-1024x972.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mariana Morgana"></a>
 
 - 📚 Cursando Bacharelado em Engenharia de Software.
 - 💼 Buscando oportunidades como Analista de Testes
